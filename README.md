@@ -7,6 +7,13 @@
 
  Espero sea de su agrado mi página. Aun falta por pulir y agregar información.
 
+URL github personal:
+
+https://github.com/jsanabrias11/portfolio_personal
+
+
+
 Cargue el proyecto en una página para poder ser visualizado desde un servidor:
 
 https://snazzy-kulfi-aef7be.netlify.app/
+
